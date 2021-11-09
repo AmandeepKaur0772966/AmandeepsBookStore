@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmandeepsBookStore", "Amand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmandeepsBooks.DataAccess", "AmandeepsBooks.DataAccess\AmandeepsBooks.DataAccess.csproj", "{88FE3F96-84B1-4CA2-9E87-25F8B1F54A51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmandeepsBooks.Models", "AmandeepsBooks.Models\AmandeepsBooks.Models.csproj", "{72925394-8321-4B6B-96EE-F48504E7BBC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{88FE3F96-84B1-4CA2-9E87-25F8B1F54A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88FE3F96-84B1-4CA2-9E87-25F8B1F54A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88FE3F96-84B1-4CA2-9E87-25F8B1F54A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72925394-8321-4B6B-96EE-F48504E7BBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72925394-8321-4B6B-96EE-F48504E7BBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72925394-8321-4B6B-96EE-F48504E7BBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72925394-8321-4B6B-96EE-F48504E7BBC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
