@@ -15,8 +15,4 @@
     <ProjectReference Include="..\AmandeepsBooks.Utility\AmandeepsBooks.Utility.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repository\IRepository\" />
-  </ItemGroup>
-
 </Project>
