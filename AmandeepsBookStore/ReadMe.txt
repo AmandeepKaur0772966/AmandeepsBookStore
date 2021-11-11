@@ -4,6 +4,7 @@ Project Name: AmandeepsBookStore
 Professor: Andrew Steele
 
 PART:-1 02-November-2021 (11:00 a.m.)
+
 I created a new project named AmandeepsBookStore at (11:00 a.m.)
 Created a github repo named AmandeepsBookStore at (11:02 a.m.)
 Then, I reviewed the project and modified startup file (11:05 a.m.)
@@ -52,6 +53,38 @@ Deleted Controllers folder(1:53p.m.)
 Updated tge GitHub repo(1:55p.m.)
 
 PART:-2 08-November-2021 (2:30 p.m.)
+
+Built the project to make sure that there are no errors(2:31p.m.)
+Reviewed the files(2:33p.m.)
+Added migration and modified database name(2:35p.m.) 
+Then cahnged the default project to .DataAccess and ran it(2:40p.m.)
+After completing migration, updated the database and reviewed it(2:42p.m.)
+Checked for errors and solved them(2:45p.m.)
+Modified the github repo(2:49p.m.)
+Added a new class called Category.cs and modified it(2:51p.m.)
+Added the migrations again(2:53p.m.)
+Updated Application DB Context and using statement(2:56p.m.)
+Ran the migrations again and reviewed changes(2:57p.m.)
+Updated the database(2:59p.m.)
+Added a new folder named Repository and a folder named IRepository inside it(3:02p.m.)
+Added a new interface called IRepository.cs into the folder and modified it(3:04p.m.)
+Added a class called Repository.cs inside the folder named Repository(3:05p.m.)
+Reviewed the potential fixes and implemented interface(3:08p.m.)
+Modified the code(3:12p.m.) 
+Then created individual repos for category named CategoryRepository.cs and ICategoryRepository.cs(3:16p.m.)
+And modified CategoryRepository.cs and ICategoryRepository.cs(3:20p.m.)
+Modified the errors and completed the remaining modifications(3:22p.m.)
+Built it and updated the github repo(3:24p.m.)
+Added a new interface called ISP_Call.cs in the IRepository folder(3:26p.m.)
+Added a new class called SP_Call.cs in the Repository folder(3:30p.m.)
+Updated the ISP_Call implementations(3:33p.m.)
+Added a new interface called IUnitOfWork.cs to IRepository folder and a class inside Repository folder(3:35p.m.)
+Modified the code and startup file(3:36p.m.)
+Had to go to walmart because i needed to do goroceries
+Then, started the project again built the project and fixed the errors(7:35p.m.) (10-November-2021)
+Updated the github repo(8:18p.m.)
+
+
 
 
 
