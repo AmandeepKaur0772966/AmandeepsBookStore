@@ -1,5 +1,4 @@
-//using AmandeepsBookStore.Data;
-//using AmandeepsBooks.DataAccess.Repository;
+using AmandeepsBooks.DataAccess.Repository;
 using AmandeepsBookStore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -14,6 +13,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AmandeepsBooks.DataAccess.Repository.IRepository;
 
 namespace AmandeepsBookStore
 {
@@ -36,7 +36,7 @@ namespace AmandeepsBookStore
 
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
-            //services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 

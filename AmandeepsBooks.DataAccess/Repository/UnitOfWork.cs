@@ -8,7 +8,7 @@ using System.Text;
 
 namespace AmandeepsBooks.DataAccess.Repository
 {
-    public class UnitOfWork 
+    public class UnitOfWork : IUnitOfWork
     {
         private readonly ApplicationDbContext _db;
 
