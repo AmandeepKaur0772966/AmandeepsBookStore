@@ -56,7 +56,7 @@ PART:-2 08-November-2021 (2:30 p.m.)
 
 Built the project to make sure that there are no errors(2:31p.m.)
 Reviewed the files(2:33p.m.)
-Added migration and modified database name(2:35p.m.) 
+Added migration named 20211110193420_AddDefaultIdentityMigration.cs and 20211110200123_AddCategoryToDb.cs and modified database name(2:35p.m.) 
 Then cahnged the default project to .DataAccess and ran it(2:40p.m.)
 After completing migration, updated the database and reviewed it(2:42p.m.)
 Checked for errors and solved them(2:45p.m.)
@@ -83,6 +83,8 @@ Modified the code and startup file(3:36p.m.)
 Had to go to walmart because i needed to do goroceries
 Then, started the project again built the project and fixed the errors(7:35p.m.) (10-November-2021)
 Updated the github repo(8:18p.m.)....
+Added controllers folder under admin views and category folder and index.cshtml and modified all the code
+Finally, I have completed the part 2.....yooo.
 
 
 
