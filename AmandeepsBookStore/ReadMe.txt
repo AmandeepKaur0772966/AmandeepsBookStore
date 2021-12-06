@@ -123,6 +123,13 @@ Added ProductRepository Class and also added Product to UnitOfWork and IUnitofWo
 After that, I built and checked for the errors and updated the github repo.(10:54pm)
 It took me 3 hours to complete both sections of this part.
 
+Part:-4 06-December-2021 (1:55 p.m.)
+
+Compared my code with the provided code on blackboard.........
+I tried to fix the issue at school now because my own laptop's window got demaged so was not able to do that at home (2:00pm)
+and it's not fixing and not happy.................will try at home again......because running out of time
+Updated the github repo and readme(2:15pm)
+
 
 
 
