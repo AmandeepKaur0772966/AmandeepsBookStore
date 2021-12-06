@@ -20,7 +20,7 @@ namespace AmandeepsBooks.DataAccess.Repository
         public object Name { get; private set; }
         public int Id { get; private set; }
 
-        public void Update(CategoryRepository category)
+        public void Update(Category category)
         {
             var objFromDb = _db.Categories.FirstOrDefault(s => s.Id == category.Id);
             if (objFromDb != null)

@@ -9,6 +9,6 @@ namespace AmandeepsBooks.DataAccess.Repository.IRepository
 {
     public interface ICoverTypeRepository : IRepository<CoverType>
     {
-        void Update(CoverTypeRepository coverType);
+        void Update(CoverType coverType);
     }
 }

@@ -20,7 +20,7 @@ namespace AmandeepsBooks.DataAccess.Repository
         public object Name { get; private set; }
         public int Id { get; private set; }
 
-        public void Update(CoverTypeRepository coverType)
+        public void Update(CoverType coverType)
         {
             var objFromDb = _db.CoverTypes.FirstOrDefault(s => s.Id == coverType.Id);
             if (objFromDb != null)
